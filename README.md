@@ -6,6 +6,8 @@ Welcome to TabHub community！ Join us and contribute:
 * Or create a new discussion in [TabHub Discussions](https://github.com/tabhub/community/discussions)
 * Create a new resource and share it in [TabHub Discussions](https://github.com/tabhub/community/discussions/categories/tabhub-resources)
 
+---
+
 欢迎加入 TabHub 社区！ 如果你在使用 TabHub 的过程中有任何问题或反馈，可以:
 
 * 通过[创建新的 Issue](https://github.com/tabhub/community/issues)反馈问题
